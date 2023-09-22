@@ -1,2 +1,1 @@
-# vscode-react-shortcut-list
-a list of my useful shortcuts
+# A list of useful snippets for vscode
